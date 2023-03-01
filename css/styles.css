@@ -206,3 +206,11 @@ font-family: 'Crimson Pro', serif;
 #social img{
 	align-content: center;
 }
+@font-face{
+  font-family: myFirstFont;
+  src: url(https://fonts.google.com/specimen/Climate+Crisis);
+}
+
+#d{
+  font-family: myFirstFont;
+}
