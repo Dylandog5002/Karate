@@ -14,7 +14,7 @@ Google fonts
 	border: 0;
 }
 body{
-	background-color:red;
+	background-color:turquoise;
 }
 
 header h1{
@@ -23,13 +23,13 @@ header h1{
 	margin-left: 8%;
 	font-family: 'Crimson Pro', serif;
 	text-align:center;
-	background-color: red;
+	background-color: turquoise;
 
 }
 
 header h2{
 	font-size: 3em;
-	color: red;
+	color: turquoise;
 	margin-left: 10%;
 	text-align: center;
 }
@@ -40,7 +40,7 @@ header h2{
 	min-height: 50px;
 	text-align: center;
 	padding: .8em;
-	color:blue;
+	color:turquoise;
 	
 	
 }
@@ -48,7 +48,7 @@ header h2{
 .hnav ul{
 	display: block;
 	color: black;
-	background-color: red;
+	background-color:turquoise;
 }
 
 .hnav ul li{
@@ -66,12 +66,12 @@ header h2{
 	font-family: 'Crimson Pro', serif;
 }
 .hnav a:hover{
-	background-color:red;
+	background-color:turquoise;
 	color: black;
 }
 header{
 	min-height: 400px;
-	background-color:red;
+	background-color:turquoise;
 	background-image: url("../images/appearance_beagle.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -91,14 +91,14 @@ main{
 	min-height: 500px;
 	font-size: 1.8em;
 	font-family: 'Crimson Pro', serif;
-    background-color: red;
+    background-color: turquoise;
     text-decoration-color: black;
 }
 
 #container img{
 	float: left;
 	margin-right: 2%;
-	border: 20px double purple;
+	border: 20px double turquoise;
 	border-radius: 10px;
 	text-align: right;
 
@@ -160,35 +160,7 @@ footer{
 }
 
 /*Style rule for form element */
-	form {
-		background-color: #e4f2ea;
-		padding: 1em;
-		text-align: right;
-		
-	}
 	
-	/* Style rule for paragraph within form element */
-	form p {
-		color: #000000;
-	}
-
-form ledgend{
-	padding-right: 8em;
-}
-
-form ul{
-	padding-left: 5em;
-}
-
-form li{
-	padding-right: 16em;
-	list-style-type: none;
-}
-
-form div{
-	padding-right: 4em;
-}
-
 .img{
 	width: 45%;
 }
@@ -227,7 +199,7 @@ box-sizing: border-box;
 	background: #F7F7F7;
 }
 .form-style-6 h1{
-	background: mediumpurple;
+	background-color: turquoise;
 	padding: 20px 0;
 	font-size: 140%;
 	font-weight: 300;
@@ -285,7 +257,7 @@ box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	width: 100%;
 	padding: 3%;
-	background: mediumpurple;
+	background-color:turquoise;
 	border-bottom: 2px solid #30C29E;
 	border-top-style: none;
 	border-right-style: none;
