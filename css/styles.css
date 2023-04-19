@@ -14,7 +14,7 @@ Google fonts
 	border: 0;
 }
 body{
-	background-color:turquoise;
+	background-color:red;
 }
 
 header h1{
@@ -29,7 +29,7 @@ header h1{
 
 header h2{
 	font-size: 3em;
-	color: turquoise;
+	color: black;
 	margin-left: 10%;
 	text-align: center;
 }
@@ -40,7 +40,7 @@ header h2{
 	min-height: 50px;
 	text-align: center;
 	padding: .8em;
-	color:turquoise;
+	color:black;
 	
 	
 }
@@ -60,18 +60,18 @@ header h2{
 
 .hnav a{
 	text-decoration: center;
-	color: #e4f2ea;
+	color: red;
 	font-size: 1.5em;
 	font-weight: bold;
 	font-family: 'Crimson Pro', serif;
 }
 .hnav a:hover{
-	background-color:turquoise;
+	background-color:black;
 	color: black;
 }
 header{
 	min-height: 400px;
-	background-color:turquoise;
+	background-color:black;
 	background-image: url("../images/appearance_beagle.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -91,14 +91,14 @@ main{
 	min-height: 500px;
 	font-size: 1.8em;
 	font-family: 'Crimson Pro', serif;
-    background-color: turquoise;
+    background-color: red;
     text-decoration-color: black;
 }
 
 #container img{
 	float: left;
 	margin-right: 2%;
-	border: 20px double turquoise;
+	border: 20px double red;
 	border-radius: 10px;
 	text-align: right;
 
@@ -257,7 +257,7 @@ box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	width: 100%;
 	padding: 3%;
-	background-color:turquoise;
+	background-color:red;
 	border-bottom: 2px solid #30C29E;
 	border-top-style: none;
 	border-right-style: none;
@@ -312,7 +312,7 @@ box-sizing: border-box;
 input {
   border: none;
   outline: none;
-  background-color: transparent;
+  background-color: red;
   padding: 15px 20px;
   color: #fff;
   /* flex: 1; */
